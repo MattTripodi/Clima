@@ -14,6 +14,7 @@
 		A7E145382184CD8200F22155 /* WeatherDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E145372184CD8200F22155 /* WeatherDataModel.swift */; };
 		A7E1453A2184CDDF00F22155 /* ChangeCityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E145392184CDDF00F22155 /* ChangeCityViewController.swift */; };
 		A7E1453C2184CDF400F22155 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E1453B2184CDF400F22155 /* WeatherViewController.swift */; };
+		A7E1453E2188130A00F22155 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E1453D2188130A00F22155 /* RoundedButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A7E145372184CD8200F22155 /* WeatherDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDataModel.swift; sourceTree = "<group>"; };
 		A7E145392184CDDF00F22155 /* ChangeCityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeCityViewController.swift; sourceTree = "<group>"; };
 		A7E1453B2184CDF400F22155 /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		A7E1453D2188130A00F22155 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				A7E145262184CD0F00F22155 /* Main.storyboard */,
+				A7E1453D2188130A00F22155 /* RoundedButton.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7E1453C2184CDF400F22155 /* WeatherViewController.swift in Sources */,
+				A7E1453E2188130A00F22155 /* RoundedButton.swift in Sources */,
 				A7E145232184CD0F00F22155 /* AppDelegate.swift in Sources */,
 				A7E145382184CD8200F22155 /* WeatherDataModel.swift in Sources */,
 				A7E1453A2184CDDF00F22155 /* ChangeCityViewController.swift in Sources */,
